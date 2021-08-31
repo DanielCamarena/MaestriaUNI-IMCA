@@ -1,6 +1,6 @@
 # M.Sc. in Mathemathics - National University of Engineering (Peru)
 
-[Maestría en Ciencias, en Matemática Aplicada, Universidad Nacional de Ingeniería, 2021.](https://fc.uni.edu.pe/maestria-en-ciencias-en-matematica-aplicada/)
+[Maestría en Ciencias, en Matemática Aplicada, Universidad Nacional de Ingeniería - Instituto de Matemática y Ciencias Afines, 2021.](https://fc.uni.edu.pe/maestria-en-ciencias-en-matematica-aplicada/)
 
 
 ## Sobre Transiencia y Recurrencia de Caminatas Aleatorias Autointeractuantes
