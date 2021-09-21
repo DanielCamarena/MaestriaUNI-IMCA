@@ -23,6 +23,10 @@ the walker decides his jump according to the history of the process. Finally,
 high-dimensional transience is proved for a generalized version of balanced
 excited random walk.
 
+## Master's Thesis Defense
+
+- [Video](https://drive.google.com/file/d/1gUf5ehRKAKnUtwI50_fjF4gQ-NOWKWwe/view?usp=sharing)
+
 ## For typos and source files
 
 - Email: vcamarenap@uni.pe
