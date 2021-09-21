@@ -25,7 +25,7 @@ excited random walk.
 
 ## Master's Thesis Defense
 
-- [Video](https://drive.google.com/file/d/1gUf5ehRKAKnUtwI50_fjF4gQ-NOWKWwe/view?usp=sharing)
+- [Video in Spanish](https://drive.google.com/file/d/1gUf5ehRKAKnUtwI50_fjF4gQ-NOWKWwe/view?usp=sharing)
 
 ## For typos and source files
 
